@@ -2,7 +2,7 @@ var dataContent = [
     {
         id: 1,
         Img: "https://picsum.photos/id/237/400/260",
-        Name: 'Bibek',
+        Name: 'Bibek Don',
         Rating: false
     },
     {
